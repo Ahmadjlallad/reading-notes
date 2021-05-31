@@ -1,5 +1,6 @@
-###### <span style = "color:green;"> My name is Ahmad jallad I am 23 yers old, lives in Amman jordan my dream is to become a silicon engineer and I am cryptocurrency enthusiast**my github account** [my github account](https://github.com/Ahmadjlallad)</span>
-# <span style = "color:blue;" >Read 1 : **Growth Mindset** </span>
+###### <span style = "color:green;"> My name is Ahmad jallad I am 23 yers old, lives in Amman jordan my dream is to become a silicon engineer and I am cryptocurrency enthusiast Reading today about *Growth Mindset*</span>
+###### [my github account](https://github.com/Ahmadjlallad)
+### <span style = "color:blue;" >Read 1 : **Growth Mindset** </span>
 - **Introduction:**
 Lately Growth Mindset got popular for a good reason, a lot of people give up so fast without give second thought growth mindset imped you encourage yourself  to keep trying and improving, There are a lot of reason to fix mindset problem.
 1. lose focus or delay tasks duo to **Obstacles or hard Challenges** : When faced with a challenging fix mindset people will try one time maybe two in both tris  they fill and give up or try to do something else than forget about it but growth mindset enthusiast recognize that back track or take a step back reviewing the problem try new way to solve it.
@@ -15,5 +16,5 @@ I try different methods here is my top three
 1.	build good Habits and try to drop out the bad once.
 1.	Thinks about what you succeed.
 1.	Keep your self-motivated.
-## No more ~~give up~~
+#### No more ~~give up~~
 ![alt text](https://beyondtheobvious.com/wp-content/uploads/2017/11/AdobeStock_106625179-1-1200x630.jpeg "Logo Title Text 1")
