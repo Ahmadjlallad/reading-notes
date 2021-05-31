@@ -1,5 +1,4 @@
-###### <span style = "color:green;"> My name is Ahmad jallad I am 23 yers old, lives in Amman jordan my dream is to become a silicon engineer and I am cryptocurrency enthusiast
-**my github account** [my github account](https://github.com/Ahmadjlallad)</span>
+###### <span style = "color:green;"> My name is Ahmad jallad I am 23 yers old, lives in Amman jordan my dream is to become a silicon engineer and I am cryptocurrency enthusiast**my github account** [my github account](https://github.com/Ahmadjlallad)</span>
 # <span style = "color:blue;" >Read 1 : **Growth Mindset** </span>
 - **Introduction:**
 Lately Growth Mindset got popular for a good reason, a lot of people give up so fast without give second thought growth mindset imped you encourage yourself  to keep trying and improving, There are a lot of reason to fix mindset problem.
