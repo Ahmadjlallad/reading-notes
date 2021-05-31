@@ -11,8 +11,7 @@ fix mindset people may triggered or get angry over Criticism this is solved by r
 >If you imagine less, less will be what you undoubtedly deserve, Debbie Millman.
 * In the fixed mindset, that thinking process is consist of looking at intelligence and talent without valuing hard work this obviously will lead to disillusioned and give up.
 Growth Mindset will encrge you to confront your Obstacles and Challenges.
-- But at the end keeping away from fixed mindset is hard 
-I try different methods here is my top three
+##### But at the end keeping away from fixed mindset is hard I try different methods here is my top three
 1.	build good Habits and try to drop out the bad once.
 1.	Thinks about what you succeed.
 1.	Keep your self-motivated.
