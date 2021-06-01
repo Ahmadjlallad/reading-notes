@@ -29,6 +29,6 @@
     * ```<h1>``` defines a large heading and ```<p>``` defines a paragraph. 
   * Element element is defined by a start tag, ```<tagname>Content</tagname>```
     * for example to get italic text ```<em>``` tag, you can do nesting elements ``` <p>Content<em>Content</em> Content</p>``` this way ```<em>```  is an inline element but ```<p>```is a block-level element.
-    * self closing elements ```<img src= "img link"> close it self without closing tag.
+    * self closing elements ```<img src= "img link">``` close it self without closing tag.
   * Attributes  contain extra information about the element that won't appear in the content.
     * for example to link a website you can use ```<a>``` but you have to set 3 attributes ```href```specifies the web address for the link```title```of the page```target```for how will you display it```target="_blank"``` will display the link in a new tab ```<p> This is <a href="https://ahmadjlallad.github.io/reading-notes/" title="my web page" target="_blank">my web page</a></p>```
