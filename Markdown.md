@@ -3,7 +3,7 @@
 ###### Markdown
 - Markdown is a way to style text on the web. You control the display of the document
 
--in Markdown you can bold or italic, adding images, and creating lists, and many more.
+- in Markdown you can bold or italic, adding images, and creating lists, and many more.
 
 _**Here are some important codes**_
 
