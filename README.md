@@ -1,4 +1,4 @@
-###### <span style = "color:red;"> My name is Ahmad jallad I am 23 years old, lives in Amman Jordan my dream is to become a silicon engineer and I am a cryptocurrency enthusiast/span>
+My name is Ahmad jallad I am 23 years old, lives in Amman Jordan my dream is to become a silicon engineer and I am a cryptocurrency enthusiast
 
 |No. | Read Link|
 |----|----------|
