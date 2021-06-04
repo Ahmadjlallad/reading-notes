@@ -9,5 +9,7 @@ My name is Ahmad jallad I am 23 years old, lives in Amman Jordan my dream is to 
 5 | [JavaScript](https://ahmadjlallad.github.io/reading-notes/Read04)
 6 | [Operators and Loops](https://ahmadjlallad.github.io/reading-notes/read05OperatorsandLoops)
 
+
+
  
 
