@@ -10,6 +10,3 @@ My name is Ahmad jallad I am 23 years old, lives in Amman Jordan my dream is to 
 6 | [Operators and Loops](https://ahmadjlallad.github.io/reading-notes/read05Operators_and_Loops)
 7|[Design web pages with CSS](https://ahmadjlallad.github.io/reading-notes/Read06_Design_web_pages_with_CSS)
 8|[Programming with JavaScript](https://ahmadjlallad.github.io/reading-notes/Read07-Programming-with-JavaScript)
-
- 
-
