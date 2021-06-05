@@ -48,7 +48,9 @@
     - similar to Object Oriented Programming .
 
 
-```Object Oriented Programming 
+```
+
+Object Oriented Programming 
 var createPet = function(name) {
 var sex;
 
@@ -80,6 +82,6 @@ pet.getName();
 pet.setName('Oliver');
 pet.setSex('male');
 pet.getSex();                   
-pet.getName();              
+pet.getName();
 ```
 ###### Hope you had fun
