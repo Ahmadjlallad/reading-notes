@@ -46,8 +46,9 @@
     - Since the inner function forms a closure, you can call the outer function and specify arguments for both the outer and inner function:
     - Closures: allows for the nesting of functions and grants the inner function full access to all the variables and functions defined inside the outer function
     - similar to Object Oriented Programming .
-```
-Object Oriented Programming 
+
+
+```Object Oriented Programming 
 var createPet = function(name) {
 var sex;
 
