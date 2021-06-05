@@ -30,10 +30,10 @@
       else
         return (n * factorial(n - 1));}
         ```
-      in this example if you pass ```console.log(factorial(5))``` you will get 120 
-      ```return (n * factorial(n - 1))``` keep executes until ```n``` becomes ```1```.
+      in this example if you pass `console.log(factorial(5))` you will get 120 
+      `return (n * factorial(n - 1))` keep executes until `n` becomes `1`.
   - Function scope: Variables  that got defined in the function scope will not accessed     from anywhere outside the function.
-    - Recursion: A function can refer to and call itself.in the below example ```foo()``` repet it self evre time function get called.
+    - Recursion: A function can refer to and call itself.in the below example `foo()` repet it self evre time function get called.
       ```
       function foo(i) {
       if (i < 0)
@@ -46,7 +46,8 @@
     - Since the inner function forms a closure, you can call the outer function and specify arguments for both the outer and inner function:
     - Closures: allows for the nesting of functions and grants the inner function full access to all the variables and functions defined inside the outer function
     - similar to Object Oriented Programming .
-```Object Oriented Programming 
+```
+Object Oriented Programming 
 var createPet = function(name) {
 var sex;
 
@@ -73,11 +74,11 @@ sex = newSex;
 }
 
 var pet = createPet('Vivie');
-pet.getName();                  // Vivie
+pet.getName();                  
 
 pet.setName('Oliver');
 pet.setSex('male');
-pet.getSex();                   // male
-pet.getName();                  // Oliver
+pet.getSex();                   
+pet.getName();              
 ```
 ###### Hope you had fun
