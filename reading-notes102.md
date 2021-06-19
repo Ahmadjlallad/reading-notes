@@ -1,4 +1,4 @@
-# THis is the reading notes links for course 102
+# Reading notes links for course 102
 
 |No. | Read Link|
 |----|----------|
