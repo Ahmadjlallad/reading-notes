@@ -7,7 +7,7 @@
   * ```<html>```  tag would represent the start of the code ```<head>``` contain meat data, page title or information about the page all go in ```<head>``` tag, in bellow example ```<head>``` tags have some ```<meta>``` tags inform the browsers about languages, viewport and many more
   * Tags can take attributes like ```<label for="username">User Name</label>``` ```for="username"```  is attribute that tell ```<label>``` about for whom the label.
 
-``` HTML #!HTML
+```#!HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,14 +37,14 @@
 
   * iframe
 
-```HTML
+```#!HTML
 <iframe width="704" height="396" src="https://www.youtube.com/embed/Gcos-VJLfPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
 * Grouping
   * ```<div>``` used to make a container, example
 
-``` HTML
+``` #!HTML
 <div id="header">
 <img src="images/logo.gif" alt="Anish Kapoor" />
     <ul>
