@@ -1,4 +1,4 @@
-# My name is Ahmad Jallad. I am 23 years old, live in Amman Jordan, Graduated as a power engineer. I am a gamer, tech enthusiast cryptocurrency trader.
+# My name is Ahmad Jallad. I am 23 years old, live in Amman Jordan, Graduated as a power engineer. I am a gamer, tech enthusiast & cryptocurrency trader
 
 |corse No.| Read Link|
 |----|----------|
