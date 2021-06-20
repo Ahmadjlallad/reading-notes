@@ -1,6 +1,6 @@
-# Reading notes links for course 201
+# *Reading notes* links for course 201
 
-|No. | Read Link|
+|**No.** |**Read Link**|
 |----|----------|
 1 | [Class 01](https://ahmadjlallad.github.io/reading-notes/reading-notes201/class-01)
 2 | [Class 02](https://ahmadjlallad.github.io/reading-notes/reading-notes201/class-02)
@@ -17,3 +17,4 @@
 13 | [Class 13](https://ahmadjlallad.github.io/reading-notes/reading-notes201/class-13)
 14 | [Class 14](https://ahmadjlallad.github.io/reading-notes/reading-notes201/class-14)
 15 | [Class 15](https://ahmadjlallad.github.io/reading-notes/reading-notes201/class-15)
+![readingsnotes](https://ramses.blog/how-take-notes-part-2/images/featured-image-how-take-smart-notes.png)

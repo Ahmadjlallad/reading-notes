@@ -51,9 +51,8 @@ selector {
 |selectors|example|
 |--------|---------|
 |universaL SeLector|```* {}``` Targets all elements on the page|
-|cLas Selector|```.note {}``` Targets any element whose class
-attribute has a value of note|
-|type SeLector|```h1, h2, h3 {}``` Targets the ```<h1>```, ```<h2>``` and ```<h3>```elements|
+|class Selector|```.note {}``` Targets any element whose class attribute has a value of note|
+|type Selector|```h1, h2, h3 {}``` Targets the ```<h1>```, ```<h2>``` and ```<h3>```elements|
 |Id Selector|```#introduction {}```|
 |descendant Selector|```p a {}```|
 
