@@ -137,7 +137,7 @@ overflow: scroll;}
 |```NaN```|false |false |false |false |false |false |false |false |false |false|
 |```Infinity```|false |false |false |false |false |false |false|true|false|false|
 |```[]```|false |true |true|true|false|false|false|false|false|false|
-|```{}```|false |false|false|false|false|false|false |alse |false|false|false|
+|```{}```|false |false|false|false|false|false|false |alse |false|false|
 
 ## Loops
 
