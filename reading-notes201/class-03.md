@@ -6,7 +6,7 @@
 
 * **Ordered** HTML List ```<ol>``` as to create order list Each list item starts with the ```<li>``` tag The list items will be marked with numbers by default.
 
-```#!html
+```html
 <ol>
     <li>Fasten your seatbelt</li>
     <li>Starts the car's engine</li>
@@ -17,7 +17,7 @@
 * **Unordered** List ```<ul>``` Each list item starts with the ```<li>``` tag.
 The list items will be marked with bullets.
 
-```#!html
+```html
 <ul>
   <li>Coffee</li>
   <li>Tea</li>
@@ -27,7 +27,7 @@ The list items will be marked with bullets.
 
 * **Definition** The ```<dl>``` tag is used in conjunction with ```<dt>``` (defines terms/names) and ```<dd>``` (describes each term/name).
 
-```#!html
+```html
 <dl>
   <dt>Coffee</dt>
   <dd>Black hot drink</dd>
@@ -63,7 +63,7 @@ example
     * hidden This property simply hides any extra content that does not fit in the box.
     * scroll This property adds a scrollbar to the box so that users can scroll to see the missing content.
 
-```#!css  
+```css  
 p.one {
 overflow: hidden;
 overflow: scroll;}
@@ -154,3 +154,42 @@ This keyword tells the interpreter to continue with the current iteration, and t
 for ([initialization]; [condition]; [final-expression])
    statement
 ```
+Example
+
+```js
+for (let i = 0; i < 9; i++) {
+   console.log(i);
+   // more statements
+}
+```
+
+* while The while statement creates a loop that executes a specified statement as long as the test condition evaluates to true. The condition is evaluated before executing the statement.
+
+```js
+while (condition)
+  statement
+```
+
+* do while The do while statement creates a loop that executes a specified statement until the test condition evaluates to false. The condition is evaluated after executing the statement, resulting in the specified statement executing at least once.
+
+```js
+do
+   statement
+while (condition);
+```
+Example
+
+```js
+var result = '';
+var i = 0;
+do {
+   i += 1;
+   result += i + ' ';
+}
+while (i > 0 && i < 5);
+// Despite i == 0 this will still loop as it starts off without the test
+
+console.log(result);
+```
+
+#### Thank You For Reading :heart:
