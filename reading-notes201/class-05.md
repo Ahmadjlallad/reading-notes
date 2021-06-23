@@ -19,7 +19,7 @@
 - A Bitmap image or graphic is made up of pixels, Because it is a lossy compression format, once you expand a JPEG too far beyond its original dimensions, the image becomes very distorted and low quality.you can increase the dimensions of the image without affecting the quality of it.
 
 * **_GIF_** for animations.
-* **_JPEG _** colorful images.
+* **_JPEG_** colorful images.
 * **_PNG_** generic, images with text everting.
 
 ---
