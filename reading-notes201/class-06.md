@@ -95,6 +95,4 @@ A **DOM** **_tree_** starts from the topmost element which is html element and b
 
 - `.replace` change the contact in it
 
-- `.textContent()` allows you to collect or update just the text that is in the containing element
-
-  (pp.183-242)
+- `.textContent()` allows you to collect or update just the text that is in the containing element.
