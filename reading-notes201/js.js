@@ -1,1 +1,1 @@
-console.log(`GLOBA L OBJECTS:NUMBER OBJECT`.toLowerCase());
+console.log(`muLtipLe styLe sheets`.toLowerCase());
