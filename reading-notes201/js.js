@@ -1,1 +1,1 @@
-console.log(`html5: Form VAlIDAtIon`.toLowerCase());
+console.log(`* BackgroUnd Images`.toLowerCase());
