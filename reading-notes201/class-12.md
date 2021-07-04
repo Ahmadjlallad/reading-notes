@@ -1,6 +1,6 @@
 # Chart.js & Canvas
 
-### Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They’re easier to look at and convey data quickly, but they’re not always easy to create.
+## Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They’re easier to look at and convey data quickly, but they’re not always easy to create.
 
 - JavaScript plugin that uses HTML5’s canvas element, makes using all kinds of bar charts, line charts, pie charts and more, incredibly easy.
 
@@ -95,7 +95,7 @@ At first sight a `<canvas>` looks like the `<img>` element, with the only clear 
 
 - creates a fixed-size drawing surface that exposes one or more rendering contexts
 
-### Drawing shapes with canvas
+## Drawing shapes with canvas
 
 canvas grid or coordinate space Normally 1 unit in the grid corresponds to 1 pixel on the canvas. The origin of this grid is positioned in the top left corner at coordinate (0,0).
 
@@ -106,12 +106,12 @@ canvas grid or coordinate space Normally 1 unit in the grid corresponds to 1 pix
   - Then you use drawing commands to draw into the path.
   - Once the path has been created, you can stroke or fill the path to render it.
 
-### Colors
+## Colors
 
 - fillStyle Sets the style used when filling shapes.
 - strokeStyle Sets the style for shapes' outlines.
 
-### Drawing text
+## Drawing text
 
 `fillText(text, x, y [, maxWidth])`
 `strokeText(text, x, y [, maxWidth])`
