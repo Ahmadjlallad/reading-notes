@@ -81,7 +81,11 @@ animation-play-state
 
 # working as group
 
-- Norms the study refer it to be important than other catagories
+The Article has a wonderfully Narrative way that takes you from the early life of Rozovsky to the Great achievement that the team was able to succeed.
+
+## in summary
+
+- Norms the study refer it to be important than other catagories(some examples about Norms)
   - Our meetings will begin and end on time.
   - We will listen to each other and not interrupt.
   - We will make sure everyone has had a chance to speak.
@@ -89,4 +93,8 @@ animation-play-state
   - We will avoid ethnic or gender-based humor.
   - We will speak respectfully to each other.
   - adopt new norms like having deferent conversation or talk about what intrusts you and ask what interests the group.
-  - also they mention psychological safety.
+- psychological safety:is the belief that you won't be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes(ccl.org)
+  - meaning you are comfortable sharing your opinion and don't fear being judged or cretinized.
+  - Let your team see you understand.
+  - Show your team you're engaged.
+  - Have some games with your team.
