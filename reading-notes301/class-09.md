@@ -28,3 +28,7 @@
   - `module.exports = { your function };`
 - What do we have to do to make a module available?
   - require("your file path");
+
+## Things I want to know more about
+
+- redux async actions
