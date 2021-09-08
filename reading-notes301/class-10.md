@@ -24,3 +24,7 @@
   - A breakpoint is a point in the code where the debugger stops and allows the user to inspect the code.
 - What does the word ‘debugger’ do in your code?
   - The debugger is a tool that allows you to inspect the code and see what is going on.
+
+## Things I want to know more about
+
+- What is a ‘closure’?
