@@ -1,4 +1,4 @@
-# _Reading notes_ links for course 201
+# _Reading notes_ links for course 301
 
 | **No.** | **Read Link**                                                                      |
 | ------- | ---------------------------------------------------------------------------------- |
