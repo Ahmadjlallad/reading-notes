@@ -1,49 +1,33 @@
-# Read 1
+# class 1
 
-## A simple set of steps
+## Readings: Node Ecosystem, TDD, CI/CD
 
-I am going to give you a simple set of steps to follow which you can use for any algorithm type programming problem.
+CI/CD: software engineering, CI/CD or CICD is the combined practices of continuous integration and either continuous deployment or continuous deployment. CI/CD bridges the gaps between development and operation activities and teams by enforcing automation in building, testing and deployment of applications.
 
-1. Read the problem completely twice.
-2. Solve the problem manually with 3 sets of sample data.
-3. Optimize the manual steps.
-4. Write the manual steps as comments or pseudo-code.
-5. Optimize the real code.
+CI: continuous integration is the process of verifying that a software project is ready for deployment. Continuous integration is a process of verifying that a software project is ready for deployment. CI/CD is a combination of continuous integration and continuous deployment.
 
----
+CD: continuous deployment is the process of delivering software to a customer. Continuous deployment is a process of delivering software to a customer. CI/CD is a combination of continuous integration and continuous deployment.
 
-## Pretend Your Time is Worth $1,000/Hour and You’ll Become 100x More Productive
+TDD: Test-driven development is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases.
 
-In reality, a lot of people are living a frenzied, busy life. They wear their business as a badge of honor, and brag about their full schedules.
-Frankly, most people prefer the little dopamine boost of checking boxes on a to-do list than actually getting important work done.
-How do you value your time?
-Take stock of the things you did this week. How many of them were worthy of $1,000/hour?
-How many activities were a true waste of time?
-Value your time at what it deserves to be. The higher the value, the more important and productive work you’ll do — and the less trivial and mindless tasks you’ll get caught in.
+## Review, Research, and Discussion
 
----
-
-## How to think like a programmer — lessons in problem solving
-
-1. Understand
-2. Plan
-3. Divide
-4. Practice
-
----
-
-## 5 Whys Getting to the Root of a Problem Quickly
-
-1. Assemble a Team
-   Gather together people who are familiar with the specifics of the problem, and with the process that you're trying to fix. Include someone to act as a facilitator , who can keep the team focused on identifying effective counter-measures.
-
-2. Define the Problem
-   If you can, observe the problem in action. Discuss it with your team and write a brief, clear problem statement that you all agree on. For example, "Team A isn't meeting its response time targets" or "Software release B resulted in too many rollback failures."
-
-3. Ask the First "Why?"
-   Ask your team why the problem is occurring. (For example, "Why isn't Team A meeting its response time targets?")
-4. Ask "Why?" Four More Times
-   For each of the answers that you generated in Step 3, ask four further "whys" in succession. Each time, frame the question in response to the answer you've just recorded.
-5. Know When to Stop
-6. Address the Root Cause(s)
-7. Monitor Your Measures
+- Describe (in plain English) what Array.map() does:
+  - map() is a method that takes a function and a list as arguments.
+    - map() will apply the function to each element of the list and return a new list with the results.
+- Describe (in plain English) what Array.reduce() does:
+  - reduce() is a method that takes a function and a list as arguments.
+    - reduce() will apply the function to each element of the list and return a single value.
+- Provide code snippets showing how to use superagent() to fetch data from a URL and log the result:
+  - With normal Promise .then() syntax:
+    - superagent.get('https://api.github.com/users/jaredpalmer/repos')
+      .then(function(response) {
+      console.log(response.body);
+      });
+  - Again with async / await syntax:
+    - const response = await superagent.get('https://api.github.com/users/jaredpalmer/repos');
+    - console.log(response.body);
+- Explain promises as though you were mentoring a Code 301 level student:
+  - Promises are a way to handle asynchronous code.
+- Are all callback functions considered to be Asynchronous? Why or Why Not?:
+  - Yes, all callback functions are considered to be asynchronous.

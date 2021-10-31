@@ -2,6 +2,7 @@
 
 | **No.** | **Read Link**                                                                      |
 | ------- | ---------------------------------------------------------------------------------- |
+| 0       | [revision](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-00) |
 | 1       | [Class 01](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-01) |
 | 2       | [Class 02](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-02) |
 | 3       | [Class 03](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-03) |
