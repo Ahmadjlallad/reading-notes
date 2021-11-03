@@ -20,12 +20,11 @@
 Document the following Vocabulary Terms
 | Term | Definition |
 | --- | --- |
-|functional programming|programming paradigm where programs are constructed by applying and composing functions. ... This allows programs to be written in a declarative and composable style, where small functions are combined in a modular manner|
+|functional programming|programming paradigm where programs are constructed by applying and composing functions. This allows programs to be written in a declarative and composable style, where small functions are combined in a modular manner|
 |object-oriented programming (OOP)|which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods).|
 |class|blueprint for creating objects. A class encapsulates data and functions that manipulate data. |
 |super|The super keyword is used to access and call functions on an object's parent. The super.|
-|this|The JavaScript this keyword refers to the object it belongs to. ... Alone, this refers to the global object. In a function, this refers to the global object. In a function, in strict mode, this is undefined .
-|
+|this|The JavaScript this keyword refers to the object it belongs to. ... Alone, this refers to the global object. In a function, this refers to the global object. In a function, in strict mode, this is undefined|
 |Test Driven Development (TDD)|an iterate process that begins with writing a test code for an application or function before starting out to write the application|
 |Jest|for creating, running, and structuring tests. |
 |Continuous Integration (CI)|the practice of automating the integration of code changes from multiple contributors into a single software project. |
