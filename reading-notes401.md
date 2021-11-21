@@ -18,10 +18,10 @@
 | 13      | [Class 13](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-13) |
 | 14      | [Class 14](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-14) |
 | 15      | [Class 15](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-15) |
-| 16      | [Class 15](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-16) |
-| 17      | [Class 15](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-17) |
-| 18      | [Class 15](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-18) |
-| 19      | [Class 15](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-19) |
-| 20      | [Class 15](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-20) |
-| 21      | [Class 15](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-21) |
-| 22      | [Class 15](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-22) |
+| 16      | [Class 16](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-16) |
+| 17      | [Class 17](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-17) |
+| 18      | [Class 18](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-18) |
+| 19      | [Class 19](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-19) |
+| 20      | [Class 20](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-20) |
+| 21      | [Class 21](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-21) |
+| 22      | [Class 22](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-22) |
