@@ -22,6 +22,8 @@
 | 17      | [Class 17](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-17) |
 | 18      | [Class 18](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-18) |
 | 19      | [Class 19](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-19) |
-| 20      | [Class 20](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-20) |
-| 21      | [Class 21](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-21) |
-| 22      | [Class 22](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-22) |
+| 26      | [Class 26](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-26) |
+| 27      | [Class 27](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-27) |
+| 28      | [Class 28](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-28) |
+| 29      | [Class 29](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-29) |
+| 30      | [Class 30](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-30) |
