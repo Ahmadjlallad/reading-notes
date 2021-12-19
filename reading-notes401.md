@@ -32,3 +32,6 @@
 | 33                      | [Class 33](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-33)                                  |
 | 34                      | [Class 34](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-34)                                  |
 | ImplementationGraphs.md | [Class ImplementationGraphs.md](https://ahmadjlallad.github.io/reading-notes/reading-notes401/ImplementationGraphs) |
+| 36                      | [Class 36](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-36)                                  |
+| 37                      | [Class 37](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-37)                                  |
+| 38                      | [Class 38](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-38)                                  |
