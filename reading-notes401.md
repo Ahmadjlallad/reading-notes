@@ -35,3 +35,5 @@
 | 36                      | [Class 36](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-36)                                  |
 | 37                      | [Class 37](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-37)                                  |
 | 38                      | [Class 38](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-38)                                  |
+| 39                      | [Class 39](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-39)                                  |
+| 30                      | [Class 30](https://ahmadjlallad.github.io/reading-notes/reading-notes401/class-30)                                  |
